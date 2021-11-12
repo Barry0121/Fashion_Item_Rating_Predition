@@ -1,1 +1,2 @@
-# cse158_assignment2
+# CSE158 - Recommendation System 
+# Assignment#2 
