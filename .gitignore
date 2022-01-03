@@ -355,3 +355,4 @@ MigrationBackup/
 *.xml
 *.json
 *.json
+*.txt
